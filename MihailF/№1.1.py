@@ -8,4 +8,4 @@ if b!= "0" and op != "/":
 #2-вариант
 
 a, op, b = input().split()
-print(a, op, b, "=", eval(a + op + b)) #вывод: 2 + 3 = 5
+print(a, op, b, "=", eval(a + op + b))
